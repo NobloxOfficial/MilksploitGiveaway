@@ -1,0 +1,14 @@
+C:\Users\cfort\source\repos\Milksploit\Milksploit\bin\Debug\Milksploit.exe.config
+C:\Users\cfort\source\repos\Milksploit\Milksploit\bin\Debug\Milksploit.exe
+C:\Users\cfort\source\repos\Milksploit\Milksploit\bin\Debug\Milksploit.pdb
+C:\Users\cfort\source\repos\Milksploit\Milksploit\bin\Debug\Guna.UI2.dll
+C:\Users\cfort\source\repos\Milksploit\Milksploit\obj\Debug\Milksploit.csproj.AssemblyReference.cache
+C:\Users\cfort\source\repos\Milksploit\Milksploit\obj\Debug\Milksploit.Form1.resources
+C:\Users\cfort\source\repos\Milksploit\Milksploit\obj\Debug\Milksploit.Properties.Resources.resources
+C:\Users\cfort\source\repos\Milksploit\Milksploit\obj\Debug\Milksploit.csproj.GenerateResource.cache
+C:\Users\cfort\source\repos\Milksploit\Milksploit\obj\Debug\Milksploit.csproj.CoreCompileInputs.cache
+C:\Users\cfort\source\repos\Milksploit\Milksploit\obj\Debug\Milksploit.csproj.Up2Date
+C:\Users\cfort\source\repos\Milksploit\Milksploit\obj\Debug\Milksploit.exe
+C:\Users\cfort\source\repos\Milksploit\Milksploit\obj\Debug\Milksploit.pdb
+C:\Users\cfort\source\repos\Milksploit\Milksploit\bin\Debug\ForlornApi.dll
+C:\Users\cfort\source\repos\Milksploit\Milksploit\obj\Debug\Milksploit.Settings.resources
